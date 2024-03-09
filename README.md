@@ -11,6 +11,7 @@
 
 ## Bảng Mục Lục
 - [Giới Thiệu Môn Học](#giới-thiệu-môn-học)
+- [Giới Thiệu Bản Thân](#giới-thiệu-bản-thân)
 - [Quá Trình Học](#quá-trình-học)
 - [Giảng Viên Hướng Dẫn](#giảng-viên-hướng-dẫn)
 - [Thành Viên Nhóm](#thành-viên-nhóm)
@@ -18,14 +19,19 @@
   
 
 ## Giới Thiệu Môn Học
-- Tên môn học: Máy học - MACHINE LEARNING
+- Tên môn học: Máy học - Machine Learning
 - Mã môn học: CS114
-- Lớp học: CS114.O21
+- Mã lớp: CS114.O21
 - Ngày bắt đầu: 19/02/2024
 - Ngày kết thúc: updating...
 - Năm học: 2023-2024
-
+## Giới Thiệu Bản Thân
+- Họ và tên: Lê Hoài Yến Vy
+- Mã số sinh viên: 22521705
 ## Quá Trình Học
+### Note Buổi Học
+- Buổi học 01
+- Buổi học 02
 ### WECODE Assignments
 - Assignment 1
 - Assignment 2
