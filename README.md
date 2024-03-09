@@ -28,6 +28,8 @@
 ## Giới Thiệu Bản Thân
 - Họ và tên: Lê Hoài Yến Vy
 - Mã số sinh viên: 22521705
+- Khoa: Khoa học Máy tính
+- Email: 22521705@gm.uit.edu.vn
 ## Quá Trình Học
 ### Note Buổi Học
 - Buổi học 01
