@@ -39,7 +39,7 @@
 - Assignment 2
 - Assignment 3
 ### Thực hành
-- https://github.com/PHTLing/CS114.O21/tree/main/LAB01 "Lab 01: Handwritten Digit Classification"
+- [Lab 01: Handwritten Digit Classification](https://github.com/PHTLing/CS114.O21/tree/main/LAB01)
 ## Giảng Viên Hướng Dẫn
 - PGS.TS. Lê Đình Duy - duydl@uit.edu.vn
 - ThS. Phạm Nguyễn Trường An - truonganpn@uit.edu.vn
