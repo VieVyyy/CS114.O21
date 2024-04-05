@@ -38,7 +38,8 @@
 - Assignment 1
 - Assignment 2
 - Assignment 3
-
+### Thực hành
+- [Github](LAB01 "Lab 01: Handwritten Digit Classification")
 ## Giảng Viên Hướng Dẫn
 - PGS.TS. Lê Đình Duy - duydl@uit.edu.vn
 - ThS. Phạm Nguyễn Trường An - truonganpn@uit.edu.vn
